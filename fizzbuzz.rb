@@ -11,4 +11,4 @@ end
 def fizzbuzz(number)
   if number %  15 == 0
     "FizzBuzz"
-  end
+end
