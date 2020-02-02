@@ -6,12 +6,5 @@ def fizzbuzz(number)
     "Fizz"
   end
 
-  if number % 5 == 0
-    "Buzz"
-  end
-
-  if number % 3 && 5 == 0
-    "FizzBuzz"
-  end
 
 end
