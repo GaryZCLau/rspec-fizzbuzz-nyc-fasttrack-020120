@@ -6,10 +6,6 @@ def fizzbuzz(number)
     "Fizz"
   elsif number % 5 == 0
     "Buzz"
-end
-
-def fizzbuzz(number)
-  if number %  15 == 0
-    "FizzBuzz"
+ else number % 15 == 0
 end
 end
